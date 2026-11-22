@@ -1,0 +1,16 @@
+{
+  "name": "Morma · หมอหมา",
+  "short_name": "Morma",
+  "description": "Morma pet care consultation demo app",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#effcf9",
+  "theme_color": "#075e51",
+  "lang": "th",
+  "icons": [{
+    "src": "./morma-icon.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }]
+}
